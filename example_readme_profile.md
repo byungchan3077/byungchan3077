@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm [Byungchan Kim]!
 
 🎓 ITM Student at SeoulTech | 🌱 Learning Full-Stack Development | 🚀 Open Source Enthusiast  
 
@@ -6,10 +6,10 @@
 
 ## 🧰 Tech Stack
 
-- 💻 **Languages**: Java, Python, JavaScript  
+- 💻 **Languages**: Java, Python, C
 - 🌐 **Frameworks & Libraries**: Spring Boot, Django, React  
-- 🛢️ **Databases**: MySQL, PostgreSQL  
-- ⚙️ **Tools & Platforms**: Git, GitHub, Docker  
+- 🛢️ **Databases**: Oracle 
+- ⚙️ **Tools & Platforms**: Git, GitHub 
 
 ---
 
@@ -36,7 +36,7 @@
 
 ## 📞 Contact Me
 
-- 📧 **Email**: yourname@example.com  
+- 📧 **Email**: gimbyeongchan29@gmail.com
 - 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourname)  
 - 🌐 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
 
