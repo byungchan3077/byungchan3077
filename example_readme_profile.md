@@ -1,5 +1,4 @@
-# 👋 Hi, I'm [Byungchan Kim]!
-
+# 👋 Hi, I'm [byungchan3077]!
 🎓 ITM Student at SeoulTech | 🌱 Learning Full-Stack Development | 🚀 Open Source Enthusiast  
 
 ---
