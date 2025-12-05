@@ -14,13 +14,14 @@
 
 ## 🛠️ Projects
 
-### 📊 [Project 1: Smart Data Dashboard](https://github.com/yourusername/project1)
-- **Tech Stack**: React, Django, PostgreSQL  
-- **Summary**: A data visualization tool for business analytics.
+* **[Cost_Effective_Travel](https://github.com/YOUR-ID/Cost_Effective_Travel)** (2023.11 ~ )
+  * **Summary:** 실시간 환율 및 생존 물가(Survival Basket) 데이터를 결합한 **가성비 여행지 추천 CLI 도구**.
+  * **Tech:** Python, Pandas, Requests, GitHub Actions
+  * **Role:**
+    * **Project Lead:** 전체 아키텍처 설계 및 일정 관리 (GitHub Projects 활용).
+    * **DevOps:** GitHub Actions를 활용한 CI 환경 구축 및 PR 템플릿 도입.
+    * **Algorithm:** 빅맥 지수와 이동평균 환율을 결합한 **PPI(구매력 지수)** 산출 로직 구현.
 
-### 🕹️ [Project 2: Game Development Project](https://github.com/yourusername/project2)
-- **Tech Stack**: Pygame, Python  
-- **Summary**: A simple avoider game built with Pygame.
 
 ---
 
