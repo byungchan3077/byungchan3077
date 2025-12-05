@@ -14,13 +14,24 @@
 
 ## 🛠️ Projects
 
-* **[Cost_Effective_Travel](https://github.com/YOUR-ID/Cost_Effective_Travel)** (2023.11 ~ )
-  * **Summary:** 실시간 환율 및 생존 물가(Survival Basket) 데이터를 결합한 **가성비 여행지 추천 CLI 도구**.
-  * **Tech:** Python, Pandas, Requests, GitHub Actions
-  * **Role:**
-    * **Project Lead:** 전체 아키텍처 설계 및 일정 관리 (GitHub Projects 활용).
-    * **DevOps:** GitHub Actions를 활용한 CI 환경 구축 및 PR 템플릿 도입.
-    * **Algorithm:** 빅맥 지수와 이동평균 환율을 결합한 **PPI(구매력 지수)** 산출 로직 구현.
+### 🚀 Featured Project: Cost_Effective_Travel
+
+> **"Don't just travel cheap. Travel rich."**
+>
+> A Python CLI tool that identifies the most financially efficient travel destinations by analyzing real-time exchange rates and the **'Real Purchasing Power Index (PPI)'**.
+
+| **Category** | **Details** |
+| :--- | :--- |
+| 🛠 **Tech Stack** | ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?logo=github-actions&logoColor=white) |
+| 💡 **Key Logic** | **Survival Basket (BigMac+Latte+Rent)** × **Exchange Rate Index** |
+| 🏆 **Role** | **Project Lead & Architect** (Planning, Module Design, CI Setup) |
+
+**Key Contributions:**
+- **Algorithmic Design:** Designed a unique recommendation algorithm based on **Purchasing Power Index (PPI)** rather than simple lowest price.
+- **Modular Architecture:** Decoupled `API`, `Data`, and `Logic` layers to ensure maintainability and scalability.
+- **Automation:** Implemented a CI pipeline using **GitHub Actions** to automate code quality checks upon Pull Requests.
+
+🔗 **[View Repository](https://github.com/YOUR-ID/Cost_Effective_Travel)**
 
 
 ---
