@@ -43,17 +43,13 @@
 
 [→ Repository](https://github.com/ehdgus4173/WP_Final-Project_FE)
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=byungchan3077&show_icons=true&theme=default)
-
----
+## 🌱 Currently Learning
+- Python Data Analysis (Pandas, XGBoost, Scikit-learn)
+- Spring Boot
+- Financial Data Analysis & Quantitative Research
 
 ## 📞 Contact Me
 
 - 📧 **Email**: gimbyeongchan29@gmail.com
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourname)  
-- 🌐 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
-
+- 
 ---
-
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* – Martin Fowler
