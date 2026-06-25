@@ -1,47 +1,50 @@
-# 👋 Hi, I'm [byungchan3077]!
-🎓 ITM Student at SeoulTech | 🌱 Learning Full-Stack Development | 🚀 Open Source Enthusiast  
+# 👋 Hi, I'm Byungchan Kim
+
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white)
+
+## 📊 Projects
+
+### 🔍 Financial Factor Analysis
+> Empirical analysis of S&P500 return predictability and Fama-French factor premiums
+
+- Verified weak-form EMH using XGBoost + macroeconomic variables (p-value: 0.063)
+- Analyzed FF3/FF5 factor premium decay before and after paper publication
+- Compared US vs Asia-Pacific factor premiums — found HML still strong in Asia
+- **Key insight**: Markets converge toward efficiency as information becomes public, but information costs sustain residual premiums (Grossman-Stiglitz Paradox)
+
+[→ Repository](https://github.com/byungchan3077/financial-factor-analysis)
 
 ---
 
-## 🧰 Tech Stack
+### ✈️ Cost Effective Travel
+> CLI tool that calculates Real Purchasing Power Index (PPI) to recommend the most financially efficient travel destinations
 
-- 💻 **Languages**: Java, Python, C
-- 🌐 **Frameworks & Libraries**: Spring Boot, Django, React  
-- 🛢️ **Databases**: Oracle 
-- ⚙️ **Tools & Platforms**: Git, GitHub 
+- Combines real-time exchange rates with local cost-of-living data
+- Survival basket logic based on Big Mac Index + daily essentials
+- Analyzes 9 popular destinations and generates automated reports
 
----
-
-## 🛠️ Projects
-
-### 🚀 Featured Project: Cost_Effective_Travel
-
-> **"Don't just travel cheap. Travel rich."**
->
-> A Python CLI tool that identifies the most financially efficient travel destinations by analyzing real-time exchange rates and the **'Real Purchasing Power Index (PPI)'**.
-
-| **Category** | **Details** |
-| :--- | :--- |
-| 🛠 **Tech Stack** | ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?logo=github-actions&logoColor=white) |
-| 💡 **Key Logic** | **Survival Basket (BigMac+Latte+Rent)** × **Exchange Rate Index** |
-| 🏆 **Role** | **Project Lead & Architect** (Planning, Module Design, CI Setup) |
-
-**Key Contributions:**
-- **Algorithmic Design:** Designed a unique recommendation algorithm based on **Purchasing Power Index (PPI)** rather than simple lowest price.
-- **Modular Architecture:** Decoupled `API`, `Data`, and `Logic` layers to ensure maintainability and scalability.
-- **Automation:** Implemented a CI pipeline using **GitHub Actions** to automate code quality checks upon Pull Requests.
-
-🔗 **[View Repository](https://github.com/YOUR-ID/Cost_Effective_Travel)**
-
+[→ Repository](https://github.com/byungchan3077/Cost_Effective_Travel)
 
 ---
 
-## 📊 GitHub Stats
+### 📰 What's Today
+> AI-curated daily news discussion platform
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byungchan3077&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byungchan3077&layout=compact&theme=radical)  
+- Vanilla JS + Vite / Node.js + Express / Supabase (PostgreSQL)
+- Google Gemini API for automated daily issue generation
+- JWT authentication + Google/GitHub OAuth
+- GitHub Actions CI/CD with branch protection
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=byungchan3077&show_icons=true&theme=transparent)
+[→ Repository](https://github.com/ehdgus4173/WP_Final-Project_FE)
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=byungchan3077&show_icons=true&theme=default)
 
 ---
 
